@@ -5,7 +5,7 @@ This is rego and data that will similute a popular word game.  It's written in a
 ## Setup
   * In Styra DAS create a new custom system.  
   * Copy the .rego files in using the same package structure
-  * Create a new https data source pointing to the raw url for the words.json
+  * Create a new https data source pointing to the raw url for the data.json
       * in the Advanced settings for the data source 
           * Data transform: Custom  
           * Policy to transform/words.rego
