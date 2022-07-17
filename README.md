@@ -1,6 +1,6 @@
 # Word Game
 
-This is rego and data that will similute a popular word game.  It's written in a way that utilizes the REST interface of Open Policy Agent for the game itself.  It works best when using [Styra DAS Free](https://signup.styra.com/).  A blog was written around the creation of this, that can be found [here]().
+This is rego and data that will simulate a popular word game.  It's written in a way that utilizes the REST interface of Open Policy Agent for the game itself.  It works best when using [Styra DAS Free](https://signup.styra.com/).  A blog was written around the creation of this, that can be found [here]().
 
 ## Setup
   * In Styra DAS create a new custom system.  
